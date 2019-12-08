@@ -24,14 +24,14 @@ a:not([href]):active, a:not([href]):hover{
     cursor: default;
 }
 .left, .right{
-    background-color: lightgray;
+    background-color: rgba(211, 211, 211, 0.692);
     padding: 0;
 }
 .right{
     padding: 1vw;
 }
 .center{
-    background-color: #4ecfdd;
+    background-color: #0e0bbd;
     padding: 1% 1% 0 1%;
     min-height: calc(100vh - 196px);
 }
@@ -53,7 +53,7 @@ a:not([href]):active, a:not([href]):hover{
     border: 0;
 }
 #accordion > .card > .card-header{
-    background-color: #23af23;
+    background-color: #b91bb1;
     border-radius: 0;
     cursor: pointer;
     color: white;
@@ -67,7 +67,7 @@ a:not([href]):active, a:not([href]):hover{
     right: 8.333333%;
     left: 8.333333%;
     padding: 8px 40px;
-    background-color: #eeeeee!important;
+    background-color: rgba(211, 211, 211, 0.637)!important;
 }
 .navbar-brand{
     font-size: 35px;
@@ -90,12 +90,12 @@ a:not([href]):active, a:not([href]):hover{
     border-radius: 10px;
 }
 .btn-success{
-    background-color: #23af23;
-    border-color: #23af23;
+    background-color: #b91bb1;
+    border-color: #b91bb1;
 }
 .btn-success:hover .btn-success:focus{
-    background-color: #289028;
-    border-color: #289028;
+    background-color: #b91bb1;
+    border-color: #b91bb1;
 }
 .phonemenu{
     display: none;
@@ -106,7 +106,7 @@ a:not([href]):active, a:not([href]):hover{
     padding: 80px 5px;
     text-align: center;
     margin: 0;
-    background-color: #23af23;
+    background-color: #b91bb1;
     color: white;
     border-radius: 1vw;
     top: calc(91px + 1vw);
@@ -252,10 +252,10 @@ a:not([href]):active, a:not([href]):hover{
         height: 30vw;
     }
     .post > div > a{
-        font-size: 3vw;
+        font-size: 4vw;
     }
     .post > div > p, .post > div > div > ul > li{
-        font-size: 1.5vw;
+        font-size: 2vw;
         line-height: 1.8vw;
     }
 }
