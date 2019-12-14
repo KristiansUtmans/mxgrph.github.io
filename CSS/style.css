@@ -46,35 +46,41 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
 /*--- Fixed Background Image --*/
-#clothes{
-    background-image:url(img/clothes.jpg);
+#factory1{
+    background-image:url(img/gigafactory1.jpg);
 }
-#litter{
-    background-image:url(img/litter.jpg);
+#factory2{
+    background-image:url(img/gigafactory2.jpg);
 }
-#feeding{
-    background-image:url(img/feeding.jpg);
+#factory3{
+    background-image:url(img/gigafactory3.jpg);
 }
-#grooming{
-    background-image:url(img/grooming.jpg);
+#factoryEU{
+    background-image:url(img/gigafactoryEU.jpg);
 }
-#bathing{
-    background-image:url(img/bathing.jpg);
+#cars1{
+    background-image:url(img/modelS.jpg);
 }
-#safety{
-    background-image:url(img/safety.jpg);
+#cars2{
+    background-image:url(img/modelY.jpg);
 }
-#playtime{
-    background-image:url(img/playtime.jpg);
+#cars3{
+    background-image:url(img/model3.jpg);
 }
-#downtime{
-    background-image:url(img/downtime.jpg);
+#cars4{
+    background-image:url(img/modelX.jpg);
 }
-#health{
-    background-image:url(img/health.png);
+#cars5{
+    background-image:url(img/cybertruck.jpg);
 }
-#reprod{
-    background-image:url(img/reprod.jpg);
+#founder1{
+    background-image:url(img/elon.jpg);
+}
+#founder2{
+    background-image:url(img/straubel.jpg);
+}
+#founder3{
+    background-image:url(img/martin.jpg);
 }
 #faq{
     background-image:url(img/faq.jpg);
